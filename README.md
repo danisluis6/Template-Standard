@@ -1,2 +1,3 @@
 # Template-Standard
-Template Standard
+[x] Adjust orientation of screen including LANDSCAPE, POTRAIT,...
+[x] 
